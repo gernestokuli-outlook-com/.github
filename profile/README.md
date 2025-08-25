@@ -1,9 +1,7 @@
 # 🌍 ExpressVPN 2025 Release
 
 ![Visitors](https://img.shields.io/badge/Visitors-180K+-ff9f43)
-
-![Downloads](https://img.shields.io/badge/Downloads-90K+-6ab04c)
-
+![Downloads](https://img.shields.io/badge/Downloads-70K+-6ab04c)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Aug_2025-3498db)
 
 ![ExpressVPN Banner]()  
