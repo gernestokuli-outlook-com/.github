@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-90K+-6ab04c)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Aug_2025-3498db)
 
-![ExpressVPN Banner](https://www.01net.com/en/app/uploads/2023/09/PrivateVPN-vs-ExpressVPN.jpg)  
+![ExpressVPN Banner]()  
 *(ExpressVPN Windows client preview)*
 
 **Welcome**: Welcome to **ExpressVPN 2025 Release** — the trusted VPN client with global servers and streaming optimization.  
